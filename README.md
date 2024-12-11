@@ -1,2 +1,4 @@
-# ATM-security-project
-ATM additional security using face recognition while logging in
+# login-verification
+Login Verification using Face Recognition
+
+Checkout this Video for Reference (https://youtu.be/fccOCWJ5ZFU)
