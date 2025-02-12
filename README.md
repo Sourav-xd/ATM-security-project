@@ -1,4 +1,4 @@
-# login-verification
-Login Verification using Face Recognition
+# Additional Security in ATM Transactions Using Face Recognition and OTP Verification
+In the contemporary digital landscape, this project presents an innovative ATM security system that seamlessly integrates face recognition authentication and OTP (One-Time Password) verification, significantly enhancing security in financial transactions. The system adopts a robust yet flexible approach, initiating with users entering their username and password. Subsequently, their face is captured and analyzed through the LBPH algorithm. Successful face recognition grants access for secure transactions. For situations necessitating an alternative access method, such as withdrawals by trusted individuals, the system smoothly transitions to OTP verification. In case face recognition fails, an OTP is generated and dispatched to the user's registered mobile number, enabling authorized parties to proceed with transactions. This dynamic approach ensures stringent control over account access while facilitating secure and convenient financial transactions. By amalgamating cutting-edge technology with adaptability and user-friendliness, this system offers a comprehensive security framework for ATM systems in the modern financial technology landscape.
 
 
